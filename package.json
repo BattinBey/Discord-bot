@@ -1,0 +1,26 @@
+{
+  "name": "discord-bot-battinbey",
+  "version": "0.0.1",
+  "description": "BattinBey.com Discord Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BattinBey/Discord-bot.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot"
+  ],
+  "author": "BattinBey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BattinBey/Discord-bot/issues"
+  },
+  "homepage": "https://github.com/BattinBey/Discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.0.1"
+  }
+}
